@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Carefully</string>
+    <string name="home_destination">Home</string>
+    <string name="home_route">home</string>
+    <string name="calendar_destination">Calendar</string>
+    <string name="calendar_route">calendar</string>
+    <string name="trackers_destination">Trackers</string>
+    <string name="trackers_route">trackesr</string>
+    <string name="settings_destination">Settings</string>
+    <string name="settings_route">settings</string>
 </resources>
